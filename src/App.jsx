@@ -1,5 +1,5 @@
 import './App.css'
-import Autentificar from './components/autentificador'
+import Autentificar from './components/Autentificador'
 import Botao from './components/botao'
 import Desconto from './components/Desconto'
 import VerificadorAluno from './components/Estudante'
